@@ -1,4 +1,4 @@
-import lib.legendre as legendre
+import mathlib.legendre as legendre
 
 def test_1_and_3():
     assert legendre.legendre_symbol(1,3) == 1

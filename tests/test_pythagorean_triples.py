@@ -1,4 +1,4 @@
-import lib.pythagorean_triples as pythagorean_triples
+import mathlib.pythagorean_triples as pythagorean_triples
 
 def test_pythagorean_triplet():
     

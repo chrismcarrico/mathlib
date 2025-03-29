@@ -1,4 +1,4 @@
-import lib.fibonacci_sequence as fibonacci_sequence
+import mathlib.fibonacci_sequence as fibonacci_sequence
 
 def test_first_10_fibonacci_sequence():
     first_10 = [1,2,3,5,8,13,21,34,55,89]

@@ -1,4 +1,4 @@
-import lib.primes as primes
+import mathlib.primes as primes
 
 def test_first_10_primes():
     sieve = primes.sieve_of_eratosthenes(100)

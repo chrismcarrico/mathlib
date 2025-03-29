@@ -1,4 +1,4 @@
-import lib.collatz as collatz
+import mathlib.collatz as collatz
 
 def test_chain_length_13():
     assert collatz.chain_length(13) == 10
